@@ -7,6 +7,7 @@
  ## Fitur Tambahan
  - Singleton Behaviour
  - backsound(pakai DontDestroyOnLoad) dan sfx
+ - Floating Text Combo
  - Save dan Load Highscore pakai Playerprefs
  - ada 3 Scene : 1 menu dan 2 Level
  - setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat waktu tambahan +2 detik
