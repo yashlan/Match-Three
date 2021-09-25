@@ -7,13 +7,13 @@
  ## Fitur Tambahan
  - Singleton Behaviour
  - backsound(pakai DontDestroyOnLoad) dan sfx
- - Floating Text Combo
  - Save dan Load Highscore pakai Playerprefs
  - ada 3 Scene : 1 menu dan 2 Level
+ - Floating Text Combo : akan muncul text Combo di tengah2 layar ketika combo > 0
  - setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat waktu tambahan +2 detik
 
 ## Gameplay
-Match Three adalah permainan yang mengharuskan pemain untuk mencocokkan 3 elemen serupa, 3 elemen ya.. kalau 5 elemen ya avatar. canda avatar. setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat skor dan waktu tambahan +2 detik. anda diberi waktu selama 2 menit di awal permainan.
+Match Three adalah permainan yang mengharuskan pemain untuk mencocokkan 3 elemen serupa, 3 elemen ya.. kalau 5 elemen ya avatar. canda avatar. setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat skor dan waktu tambahan +2 detik. anda diberi waktu selama 2 menit di setiap level.
 
 ## How To Play
 Extract File Export Here.rar kemudian jalankan file .exe nya
