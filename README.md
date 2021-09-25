@@ -13,7 +13,7 @@
  - setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat waktu tambahan +2 detik
 
 ## Gameplay
-Match Three adalah permainan yang mengharuskan pemain untuk mencocokkan 3 tile/elemen serupa. setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat skor dan waktu tambahan +2 detik. anda diberi waktu selama 2 menit di awal permainan.
+Match Three adalah permainan yang mengharuskan pemain untuk mencocokkan 3 elemen serupa, 3 elemen ya.. kalau 5 elemen ya avatar. canda avatar. setiap anda mencocokkan 3 tile/elemen yang sama, anda akan mendapat skor dan waktu tambahan +2 detik. anda diberi waktu selama 2 menit di awal permainan.
 
 ## How To Play
 Extract File Export Here.rar kemudian jalankan file .exe nya
